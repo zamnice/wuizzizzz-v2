@@ -1,0 +1,137 @@
+{
+  "title": "Kuis Olimpiade Madrasah Indonesia (OMI) Matematika Terintegrasi Islam - Tingkat Sulit",
+  "difficulty": "Sulit",
+  "tokenCost": 5,
+  "questions": [
+    {
+      "type": "mc",
+      "question": "Pak Ahmad membeli 3,5 kg beras seharga Rp 12.000/kg, 2 kg gula seharga Rp 15.000/kg, dan 7 bungkus mie instan seharga Rp 3.500/bungkus untuk disedekahkan. Jika ia membayar dengan 2 lembar uang Rp 50.000, berapa kembalian yang diterimanya?",
+      "options": [
+        "Rp 15.500",
+        "Rp 16.750",
+        "Rp 17.250",
+        "Rp 18.550"
+      ],
+      "correctAnswer": 2,
+      "points": 10,
+      "explanation": "Total belanja: (3,5 × 12.000) + (2 × 15.000) + (7 × 3.500) = 42.000 + 30.000 + 24.500 = Rp 96.500. Uang dibayar: 2 × 50.000 = 100.000. Kembalian: 100.000 - 96.500 = Rp 3.500"
+    },
+    {
+      "type": "mc",
+      "question": "Seorang petani muslim memanen 2,75 kuintal padi. Jika zakat pertanian adalah 5%, berapa kg padi yang harus dizakatkan?",
+      "options": [
+        "12,75 kg",
+        "13,25 kg",
+        "13,75 kg",
+        "14,25 kg"
+      ],
+      "correctAnswer": 2,
+      "points": 10,
+      "explanation": "2,75 kuintal = 275 kg. Zakat: 5% × 275 = 13,75 kg"
+    },
+    {
+      "type": "mc",
+      "question": "Kotak amal masjid berbentuk kubus dengan volume 46.656 cm³. Berapa cm panjang rusuk kotak amal tersebut?",
+      "options": [
+        "32 cm",
+        "34 cm",
+        "36 cm",
+        "38 cm"
+      ],
+      "correctAnswer": 2,
+      "points": 10,
+      "explanation": "Volume kubus = r³. Maka r = ∛46.656 = 36 cm (karena 36 × 36 × 36 = 46.656)"
+    },
+    {
+      "type": "mc",
+      "question": "Data tinggi badan (dalam cm) siswa MI Al-Ikhlas: 125, 130, 128, 132, 125, 130, 135, 128, 130, 132. Berapakah median dari data tersebut?",
+      "options": [
+        "128 cm",
+        "129 cm",
+        "130 cm",
+        "131 cm"
+      ],
+      "correctAnswer": 2,
+      "points": 10,
+      "explanation": "Data diurutkan: 125, 125, 128, 128, 130, 130, 130, 132, 132, 135. Median = (130 + 130)/2 = 130 cm"
+    },
+    {
+      "type": "mc",
+      "question": "Seorang anak berjalan ke masjid dengan kecepatan 4 km/jam. Jika jarak rumahnya ke masjid 600 meter, berapa menit waktu yang dibutuhkan?",
+      "options": [
+        "8 menit",
+        "9 menit",
+        "10 menit",
+        "11 menit"
+      ],
+      "correctAnswer": 1,
+      "points": 10,
+      "explanation": "Jarak = 600 m = 0,6 km. Waktu = Jarak/Kecepatan = 0,6/4 = 0,15 jam = 9 menit"
+    },
+    {
+      "type": "mc",
+      "question": "Pada pembagian buku pelajaran agama, 144 buku akan dibagikan kepada beberapa kelompok. Jika setiap kelompok mendapat 12 buku dan terdapat 2 buku tambahan untuk perpustakaan, berapa banyak kelompok yang menerima buku?",
+      "options": [
+        "10 kelompok",
+        "11 kelompok",
+        "12 kelompok",
+        "13 kelompok"
+      ],
+      "correctAnswer": 1,
+      "points": 10,
+      "explanation": "Total buku yang dibagikan = 144 - 2 = 142. Jumlah kelompok = 142 ÷ 12 = 11,83. Dibulatkan menjadi 12 kelompok (karena sisa buku bisa dibagikan)"
+    },
+    {
+      "type": "mc",
+      "question": "Selembar sajadah memiliki panjang 180 cm dan lebar 120 cm. Jika sajadah tersebut diperkecil dengan skala 1:6, berapa cm² luas sajadah setelah diperkecil?",
+      "options": [
+        "450 cm²",
+        "500 cm²",
+        "550 cm²",
+        "600 cm²"
+      ],
+      "correctAnswer": 3,
+      "points": 10,
+      "explanation": "Panjang kecil = 180 ÷ 6 = 30 cm. Lebar kecil = 120 ÷ 6 = 20 cm. Luas = 30 × 20 = 600 cm²"
+    },
+    {
+      "type": "mc",
+      "question": "Suhu udara di Masjid Nabawi pada pagi hari adalah 18°C, siang hari naik 12°C, dan malam hari turun 7°C dari suhu siang. Berapa suhu udara pada malam hari?",
+      "options": [
+        "21°C",
+        "22°C",
+        "23°C",
+        "24°C"
+      ],
+      "correctAnswer": 2,
+      "points": 10,
+      "explanation": "Suhu siang = 18 + 12 = 30°C. Suhu malam = 30 - 7 = 23°C"
+    },
+    {
+      "type": "mc",
+      "question": "Pak Yusuf menyumbang 35% dari gajinya untuk pembangunan masjid. Jika gajinya Rp 4.500.000, berapa rupiah sumbangan yang diberikan?",
+      "options": [
+        "Rp 1.475.000",
+        "Rp 1.525.000",
+        "Rp 1.575.000",
+        "Rp 1.625.000"
+      ],
+      "correctAnswer": 2,
+      "points": 10,
+      "explanation": "Sumbangan = 35% × 4.500.000 = Rp 1.575.000"
+    },
+    {
+      "type": "mc",
+      "question": "Seorang santri menghafal 15 ayat pertama dari surat Al-Baqarah. Jika 5 ayat pertama masing-masing membutuhkan 10 menit, 5 ayat berikutnya masing-masing 12 menit, dan 5 ayat terakhir masing-masing 15 menit, berapa menit total waktu yang dibutuhkan?",
+      "options": [
+        "175 menit",
+        "180 menit",
+        "185 menit",
+        "190 menit"
+      ],
+      "correctAnswer": 2,
+      "points": 10,
+      "explanation": "Waktu = (5×10) + (5×12) + (5×15) = 50 + 60 + 75 = 185 menit"
+    }
+  ]
+}
