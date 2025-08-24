@@ -666,7 +666,7 @@
             playerUsername = usernameInput.value.trim();
             
             // Validasi username
-            const validUsernames = ['aa', 'bb', 'cc', 'dd', 'ee', 'ff', 'gg', 'hh', 'ii', 'jj', 'kk', 'll', 'mm', 'zz', 'zam'];
+            const validUsernames = ['aa', 'bb', 'cc', 'dd', 'ee', 'ff', 'gg', 'hh', 'ii', 'jj', 'kk', 'll', 'mm', 'mahiracantik','zz', 'zam'];
             if (!validUsernames.includes(playerUsername)) {
                 Swal.fire({
                     title: 'Username Tidak Valid',
@@ -763,7 +763,7 @@
         async function startExternalQuiz() {
             // Gunakan index yang belum terpakai, misal index 3
             const externalQuizIndex = 3;
-            const externalQuizPath = '/soal/soal-mtk.json';
+            const externalQuizPath = '/soal/soal1.json';
             
             Swal.fire({
                 title: 'Memuat Quiz Eksternal...',
